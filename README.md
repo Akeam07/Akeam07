@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akeam07
-- 👀 I’m interested in ... Video Games, Game Design, Sports, Writing and Anime
+- 👀 I’m interested in ... Video Games, Game Design, Sports, Writing, and Anime
 - 🌱 I’m currently learning ... More on Codiing in C#
-- 💞️ I’m looking to collaborate on ... Game Projects, I'm a Game Design student
+- 💞️ I’m looking to collaborate on ... Game Projects
 - 📫 How to reach me ... davidson.akeam@gmail.com
 
 <!---
